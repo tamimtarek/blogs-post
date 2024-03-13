@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1234,
+      "title": "The Enigma of Echoes",
+      "cover": "https://i.ibb.co/cbM1B2q/774.jpg",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/mFWFVpP/lovely-woman-home.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 10,
+      "hashtags": ["#mystery", "#fiction", "#enigma"]
+    },
+    {
+      "id": 5678,
+      "title": "Beyond the Horizon",
+      "cover": "https://i.ibb.co/T4SmgVL/2469.jpg",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/SmnXvp1/female-painter-pretending-take-color-from-palette.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 15,
+      "hashtags": ["#adventure", "#fantasy", "#journey"]
+    },
+    {
+      "id": 9012,
+      "title": "Infinite Paths",
+      "cover": "https://i.ibb.co/MGtBRmq/517071-PIXH41-841.jpg",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/R2hGhJd/young-artist-painting-canvas.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 12,
+      "hashtags": ["#philosophy", "#life", "#choices"]
+    },
+    {
+      "id": 3456,
+      "title": "Serenade of Stars",
+      "cover": "https://i.ibb.co/6yNRhYJ/m029t0044-a-fashion-social-media-15may23.jpg",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co/3WFv3dY/lovely-woman.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": 8,
+      "hashtags": ["#romance", "#sciencefiction", "#stars"]
+    },
+    {
+      "id": 7890,
+      "title": "Whispers in the Wind",
+      "cover": "https://i.ibb.co/LxHdx10/Travel-Social-Media-Banner-19.jpg",
+      "author": "Sarah Lee",
+      "author_img": "https://i.ibb.co/3WFv3dY/lovely-woman.jpg",
+      "posted_date": "2024-03-08",
+      "reading_time": 20,
+      "hashtags": ["#poetry", "#nature", "#whispers"]
+    }
+  ]
+  
